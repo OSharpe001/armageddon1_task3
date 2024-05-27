@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+elemental-apex-420520-8d3f13306920.json
+terraform.tfstate
+terraform.tfstate.backup
